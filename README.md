@@ -1,2 +1,2 @@
 # AlfaBankRubyAutomation
-Automating https://calcus.ru/kalkulyator-ipoteki with Ruby+Selenium+Webdriver
+Automating https://calcus.ru/kalkulyator-ipoteki with Ruby+Selenium+Cucumber
